@@ -1,4 +1,6 @@
-version: 'X'
+Exemplo do docker-compose.yaml
+
+version: 'x'
 services:
   app_A:
     # ...
